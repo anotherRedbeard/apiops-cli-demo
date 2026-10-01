@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/Azure/apiops-cli/main/schemas/v1/extractor-config.schema.json
+
+apis:
+  - echo-api  
+backends: []
+namedValues: []
+products: []
+tags: []
+versionSets: []
+loggers: []
+diagnostics: []
+groups: []
+policyFragments: []
+gateways: []
+schemas: []
+subscriptions: []
+policies: []
+policyRestrictions: []
+documentations: []
+workspaces: []
